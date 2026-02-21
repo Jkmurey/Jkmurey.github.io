@@ -19,11 +19,11 @@ title: Joseah Murey # the main title
 tagline: Data Analyst | AI # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  My journey and projects in turning Data into Insights
+  My journey and projects in turning Data into Insights and AI
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://jkmurey.github.io"
 
 github:
   username: Jkmurey # change to your GitHub username
