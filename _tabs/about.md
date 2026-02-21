@@ -4,5 +4,14 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## About Me 
+
+I am a Data Analyst and AI enthusiast with experience in:
+
+- Excel
+- Power BI
+- SQL
+- Python (Pandas, Matplotlib, Seaborn)
+- Data Cleaning & EDA
+
+My goal is to transform raw data into actionable business insights.
