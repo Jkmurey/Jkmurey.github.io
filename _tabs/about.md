@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## About Me 
-
 I am a Data Analyst and AI enthusiast with experience in:
 
 - Excel
