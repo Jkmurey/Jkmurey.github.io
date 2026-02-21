@@ -16,10 +16,10 @@ timezone: Africa/Nairobi
 
 title: Joseah Murey # the main title
 
-tagline: Turning Data into Insights # it will display as the subtitle
+tagline: Data Analyst | AI # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Data Analyst specializing in Excel, Power BI, SQL, and Python.
+  Turning Data into Insights
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
