@@ -1,7 +1,7 @@
 ---
 title: Contact
 icon: fas fa-envelope
-order: 6
+order: 13
 ---
 
 Email: jossin4murey@gmail.com  
