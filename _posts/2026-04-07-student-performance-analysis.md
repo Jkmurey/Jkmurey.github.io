@@ -53,23 +53,6 @@ The dataset contained:
 
 ---
 
-## 🖼️ Screenshots
-*(Upload images to /assets/img/ and link them below)*
-
-# ![Dashboard](/assets/img/student-dashboard.png)
-
----
-
-## 🚀 Outcome
-The project successfully demonstrated how data analysis can be used to improve academic performance monitoring and decision-making.
-
----
-
-## 🔗 GitHub Repository
-# https://github.com/yourusername/student-performance-analysis
-
----
-
 ## 📚 Lessons Learned
 - Importance of data cleaning before analysis
 - How to communicate insights using dashboards
