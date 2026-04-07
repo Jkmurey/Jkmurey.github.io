@@ -56,7 +56,7 @@ The dataset contained:
 ## 🖼️ Screenshots
 *(Upload images to /assets/img/ and link them below)*
 
-![Dashboard](/assets/img/student-dashboard.png)
+# ![Dashboard](/assets/img/student-dashboard.png)
 
 ---
 
@@ -66,7 +66,7 @@ The project successfully demonstrated how data analysis can be used to improve a
 ---
 
 ## 🔗 GitHub Repository
-https://github.com/yourusername/student-performance-analysis
+# https://github.com/yourusername/student-performance-analysis
 
 ---
 
