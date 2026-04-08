@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Linear Regression Models"
+title: "Machine Learning"
 date: 2026-04-08
 categories: [Machine Learning, Linear Regression Models]
 ---
