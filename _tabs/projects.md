@@ -1,10 +1,8 @@
 ---
-title: 💻 My Projects
+title: projects
 icon: fas fa-project-diagram
 order: 3
 ---
-
-## 💻 My Projects
 
 {% for post in site.posts %}
   <div style="margin-bottom: 20px;">
