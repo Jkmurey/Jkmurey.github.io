@@ -1,6 +1,7 @@
 ---
 title: "EDA Kaggle Titanic Dataset"
 date: 2026-04-07
+category:[EDA], [Visualization]
 ---
 
 ## 📌 Overview
