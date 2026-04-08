@@ -1,6 +1,6 @@
 ---
 title: Projects
-icon: fas fa-folder-open
+icon: fas fa-project-diagram
 order: 3
 ---
 
