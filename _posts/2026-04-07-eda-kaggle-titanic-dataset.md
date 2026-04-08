@@ -50,11 +50,47 @@ Source: Kaggle Titanic Dataset
 - Removed duplicates
 
 ---
-  
+
+3. Univariate Analysis
+- Age distribution
+- Passenger class distribution
+- Fare distribution
+
+---
+
+4. Bivariate Analysis
+- Survival vs Gender → Females had higher survival
+- Survival vs Pclass → 1st class had higher survival
+- Fare vs Pclass relationship
+
+---
+
+5. Multivariate Analysis
+- Combined effects of:
+- Age + Pclass + Fare
+- Embarked + Pclass + Survival
+
+---
+
+6. Outlier Handling
+- Fare outliers analyzed
+- Decision: (Explain what YOU chose — remove/cap/keep)
+
+---
+
+7. Target Variable Analysis
+- Survival distribution (imbalanced dataset)
+- Key influencing factors:
+- Gender
+- Class
+- Age
+
+---
+
 ## 📈 Key Insights
-- Students who studied more than 3 hours daily scored 20% higher
-- Attendance strongly influenced performance
-- Math had the lowest average score across all students
+- Females and 1st class passengers had higher survival rates
+- Higher fare correlates with higher survival
+- Younger passengers had slightly better survival chances
 
 ---
 
