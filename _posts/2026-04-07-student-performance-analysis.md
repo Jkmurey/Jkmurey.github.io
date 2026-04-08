@@ -1,51 +1,55 @@
 ---
-title: "Student Performance Analysis Dashboard"
+title: "Exploratory Data Analysis – Titanic Dataset"
 date: 2026-04-07
 ---
 
 ## 📌 Overview
-This project analyzes student academic performance to identify key factors affecting grades and overall success. The goal was to generate insights that can help educators improve student outcomes.
+This project performs Explatory Data Analysis (EDA) on the Titanic dataset from Kaggle to uncover patterns, relationships, and insights that influence passenger survival
 
 ---
 
 ## 🎯 Objectives
-- Analyze student scores across different subjects
-- Identify trends and patterns in performance
-- Build a dashboard for easy visualization
+- Perform data cleaning and preprocessing
+- Handle missing values and outliers
+- Conduct univariate, bivariate, and multivariate analysis
+- Analyze the target variable (Survived)
 
 ---
 
 ## 🛠️ Tools & Technologies
-- Python (Pandas, Matplotlib)
-- Excel
-- Power BI
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 ---
 
 ## 📊 Dataset
-The dataset contained:
-- Student scores (Math, English, Science)
-- Study hours
-- Attendance records
+Source: Kaggle Titanic Dataset
+👉 https://www.kaggle.com/code/mariyamalshatta/masterclass-1-a-comprehensive-guide-for-eda
 
 ---
 
-## ⚙️ Approach
+## 🔍 Key Steps
+1. Initial Data Exploration
+- Checked dataset structure using:
+- df.head()
+- df.info()
+- df.describe()
+- Identified missing values and duplicates
 
-### 1. Data Cleaning
-- Removed missing values
-- Standardized column names
+  ---
 
-### 2. Data Analysis
-- Compared performance across subjects
-- Analyzed correlation between study hours and scores
+2. Data Cleaning
+- Handled missing values in:
+- Age
+- Cabin
+- Embarked
+- Removed duplicates
 
-### 3. Visualization
-- Built charts showing performance trends
-- Created an interactive dashboard in Power BI
-
----
-
+  ---
+  
 ## 📈 Key Insights
 - Students who studied more than 3 hours daily scored 20% higher
 - Attendance strongly influenced performance
