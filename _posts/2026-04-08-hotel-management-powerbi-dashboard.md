@@ -8,3 +8,5 @@ category: [Power BI]
 
 This project is a Business Intelligence dashboard built using Microsoft Power BI to analyze hotel performance, bookings, and revenue trends.
 It simulates real-world hotel operations and supports data-driven decision-making
+
+---
