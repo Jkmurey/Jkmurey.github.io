@@ -1,5 +1,5 @@
 ---
-title: "Exploratory Data Analysis – Titanic Dataset"
+title: "EDA Kaggle Titanic Dataset"
 date: 2026-04-07
 ---
 
