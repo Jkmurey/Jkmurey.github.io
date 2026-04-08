@@ -32,7 +32,7 @@ Source: Kaggle Titanic Dataset
 ---
 
 ## 🔍 Key Steps
-1. Initial Data Exploration
+# 1. Initial Data Exploration
 - Checked dataset structure using:
 - df.head()
 - df.info()
@@ -41,7 +41,7 @@ Source: Kaggle Titanic Dataset
 
 ---
 
-2. Data Cleaning
+# 2. Data Cleaning
 - Handled missing values in:
 - Age
 - Cabin
