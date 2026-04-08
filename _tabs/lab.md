@@ -1,7 +1,7 @@
 ---
 title: Lab Challenges
-icon: fas fa-flask
-order: 4
+icon: fas fa-folder-0pen
+order: 5
 ---
 
 ## Web Scraping Challenge
