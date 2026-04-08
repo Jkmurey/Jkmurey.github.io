@@ -1,6 +1,7 @@
 ---
 title: "Student Performance Analysis Dashboard"
 date: 2026-04-07
+categories: [Projects]
 ---
 
 ## 📌 Overview
