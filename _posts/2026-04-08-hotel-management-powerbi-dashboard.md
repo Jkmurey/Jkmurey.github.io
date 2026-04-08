@@ -1,5 +1,5 @@
 ---
 title: "Hotel Management Power BI Dashboards"
 date: 2026-04-08
-categories: [Projects]
+projects: [Hotel Management Power BI Dashboards]
 ---
