@@ -39,7 +39,7 @@ Source: Kaggle Titanic Dataset
 - df.describe()
 - Identified missing values and duplicates
 
-  ---
+---
 
 2. Data Cleaning
 - Handled missing values in:
@@ -48,7 +48,7 @@ Source: Kaggle Titanic Dataset
 - Embarked
 - Removed duplicates
 
-  ---
+---
   
 ## 📈 Key Insights
 - Students who studied more than 3 hours daily scored 20% higher
