@@ -28,9 +28,6 @@ url: "https://jkmurey.github.io"
 github:
   username: Jkmurey # change to your GitHub username
 
-  linkedin:
-  username: https://www.linkedin.com/in/joseah-murey-5411b78b
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -38,7 +35,6 @@ social:
   email: jossin4murey@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
