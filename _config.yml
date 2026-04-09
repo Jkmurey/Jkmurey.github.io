@@ -26,15 +26,18 @@ description: >- # used by seo meta and the atom feed
 url: "https://jkmurey.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: Jkmurey # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
 
+  linkedin:
+  username: https://www.linkedin.com/in/joseah-murey-5411b78b
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Joseah Murey
+  name: JKMurey
   email: jossin4murey@gmail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
@@ -89,7 +92,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark blue
+theme_mode: dark
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
