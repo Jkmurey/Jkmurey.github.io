@@ -4,9 +4,6 @@ icon: fas fa-file-alt
 order: 2
 ---
 
-## Joseah Murey  
-**Data Analyst**
-
 📍 Nairobi, Kenya  
 📧 Jossin4murey@gmail.com  
 🔗 [GitHub Portfolio](https://jkmurey.github.io/)  
@@ -89,3 +86,5 @@ Second Class Upper
 
 ---
 
+## 📄 Download My CV
+[⬇️ Download My CV (PDF)](assets/files/Joseah_Murey_CV.pdf)
