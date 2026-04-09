@@ -50,7 +50,7 @@ This structure enables efficient aggregation and filtering for reporting and ana
 
 
 ## 📊 Data Characteristics
-Contains both categorical data (room type, booking status) and numerical data (revenue, occupancy)
+The dataset contains both categorical data (room type, booking status) and numerical data (revenue, occupancy)
 Time-series data allows trend and seasonality analysis
 Supports calculation of key hotel KPIs such as:
 - Revenue
@@ -68,6 +68,16 @@ Examples of measures created:
 - Revenue per Available Room (RevPAR)
 
   ---
+
+## 🎯 Business Relevance
+
+This dataset helps answer key business questions such as:
+- Which room types generate the most revenue?
+- What are the peak booking periods?
+- How does occupancy vary over time?
+- What factors influence hotel performance?
+
+---
 
 ## 📈 Dashboard Features
 - Revenue trends over time
