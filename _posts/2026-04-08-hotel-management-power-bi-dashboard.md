@@ -70,7 +70,6 @@ Examples of measures created:
   ---
 
 ## 🎯 Business Relevance
-
 This dataset helps answer key business questions such as:
 - Which room types generate the most revenue?
 - What are the peak booking periods?
