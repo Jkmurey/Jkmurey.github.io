@@ -4,6 +4,7 @@ icon: fas fa-envelope
 order: 6
 ---
 
-Email: jossin4murey@gmail.com  
-GitHub: https://github.com/jkmurey  
-LinkedIn: https://www.linkedin.com/in/joseah-murey-5411b78b
+📍 Nairobi, Kenya  
+📧 Jossin4murey@gmail.com  
+🔗 [GitHub Portfolio](https://jkmurey.github.io/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/joseah-murey-5411b78b)
