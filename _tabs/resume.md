@@ -88,3 +88,8 @@ Second Class Upper
 
 ## 📄 Download My CV
 [⬇️ Download My CV (PDF)](/assets/files/Joseah_Murey_CV.pdf)
+
+---
+
+## 📑 View CV
+<iframe src="/assets/files/Joseah_Murey_CV.pdf" width="100%" height="800px"></iframe>
