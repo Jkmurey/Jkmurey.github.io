@@ -32,17 +32,10 @@ github:
   username: https://www.linkedin.com/in/joseah-murey-5411b78b
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: JKMurey
-  email: jossin4murey@gmail.com # change to your email address
-  fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
-  links:
-    # The first element serves as the copyright owner's link
-    - https://github.com/JKMurey # change to your GitHub homepage
-    - https://linkedin.com/in/joseah-murey-5411b78b
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+  email: jossin4murey@gmail.com
+  github: JKMurey
+  linkedin: joseah-murey-5411b78b
 
 # Site Verification Settings
 webmaster_verifications:
