@@ -1,7 +1,7 @@
 ---
 title: "Hotel Management Power BI Dashboard"
 date: 2026-04-08
-categories: [Power BI, Visualization]
+category: [Power BI, Visualization]
 ---
 
 ## 📌 Overview
