@@ -27,17 +27,36 @@ It simulates real-world hotel operations and supports data-driven decision-makin
 ---
 
 ## 📊 Dataset
-The dataset contained:
-- Student scores (Math, English, Science)
-- Study hours
-- Attendance records
+The dataset represents hotel operations data, including booking transactions, room details, and time-based information. It is designed to simulate a real-world hotel management system and support business intelligence analysis.
+
+The data is structured into multiple tables following a dimensional model:
+
+- Fact Table
+Bookings: Contains transactional data such as booking dates, revenue, number of guests, and room allocations.
+- Dimension Tables
+Date (dim_date): Provides time-based attributes such as day, month, and year for trend analysis.
+Rooms (dim_rooms): Includes room categories, types, and capacity details.
 
 ---
 
-## 📊 Data Model
-The project uses a Star Schema with:
-- Fact Table: Bookings
-- Dimension Tables: Date, Rooms, etc
+## 🔗 Data Relationships
+
+The dataset follows a star schema, where:
+
+- The bookings table acts as the central fact table
+- Dimension tables (date, rooms) are connected via relationships
+
+This structure enables efficient aggregation and filtering for reporting and analysis.
+
+
+## 📊 Data Characteristics
+Contains both categorical data (room type, booking status) and numerical data (revenue, occupancy)
+Time-series data allows trend and seasonality analysis
+Supports calculation of key hotel KPIs such as:
+- Revenue
+- Occupancy Rate
+- Average Daily Rate (ADR)
+- RevPAR
 
   ---
 
