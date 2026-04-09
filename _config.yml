@@ -216,3 +216,10 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+
+jekyll-archives:
+  enabled: [categories]
+  layouts:
+    category: category
+  permalinks:
+    category: /categories/:name/
