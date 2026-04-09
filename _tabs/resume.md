@@ -4,10 +4,8 @@ icon: fas fa-file-alt
 order: 2
 ---
 
-📍 Nairobi, Kenya  
-📧 Jossin4murey@gmail.com  
-🔗 [GitHub Portfolio](https://jkmurey.github.io/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/joseah-murey-5411b78b)
+## 📄 Download My CV
+[⬇️ Download My CV (PDF)](/assets/files/Joseah_Murey_CV.pdf)
 
 ---
 
@@ -83,11 +81,6 @@ Second Class Upper
 
 ### Moringa School (Jan 2025)
 - Excel, SQL & Power BI 
-
----
-
-## 📄 Download My CV
-[⬇️ Download My CV (PDF)](/assets/files/Joseah_Murey_CV.pdf)
 
 ---
 
