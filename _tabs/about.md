@@ -5,9 +5,6 @@ order: 1
 ---
 
 <h1>Welcome to my portfolio</h1>
-
-<img src="assets/img/photo.jpg" width="200" style="border-radius: 50%;">
-
 <p>Data analyst building projects and dashboards.</p>
 
 ---
