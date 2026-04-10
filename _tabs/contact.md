@@ -8,6 +8,6 @@ order: 6
 
 📧 Jossin4murey@gmail.com 
 
-<i class="fab fa-github"></i>[GitHub Portfolio](https://jkmurey.github.io/) 
+<i class="fab fa-github"></i>[GitHub](https://jkmurey.github.io/) 
 
 <i class="fab fa-linkedin"></i>[LinkedIn](https://www.linkedin.com/in/joseah-murey-5411b78b)
