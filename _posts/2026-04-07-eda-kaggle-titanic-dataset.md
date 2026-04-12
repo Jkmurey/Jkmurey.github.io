@@ -1,7 +1,9 @@
 ---
 title: "EDA Kaggle Titanic Dataset"
 date: 2026-04-07
+repo: https://github.com/Jkmurey/titanic-eda-kaggle-analysis
 categories: [EDA, Kaggle, Python, Visualization]
+
 ---
 
 ## 📌 Overview
@@ -105,7 +107,8 @@ The project successfully demonstrated how data analysis can be used to improve a
 ---
 
 ## 🔗 GitHub Repository
-repo: https://github.com/Jkmurey/titanic-eda-kaggle-analysis
+[View Project Code](https://github.com/Jkmurey/titanic-eda-kaggle-analysis)
+
 ---
 
 ## 📚 Lessons Learned
