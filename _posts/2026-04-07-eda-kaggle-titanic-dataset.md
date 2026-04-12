@@ -105,7 +105,7 @@ The project successfully demonstrated how data analysis can be used to improve a
 ---
 
 ## 🔗 GitHub Repository
-
+https://github.com/Jkmurey/titanic-eda-kaggle-analysis
 ---
 
 ## 📚 Lessons Learned
