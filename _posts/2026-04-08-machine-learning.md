@@ -55,11 +55,11 @@ from sklearn.model_selection import train_test_split
 
  ---
 
- ## Model Building
+## Model Building
 
 A Linear Regression model was implemented using Scikit-learn.
 
-Steps:
+### Steps:
 Imported LinearRegression
 Created model instance
 Trained model using training data
@@ -72,17 +72,17 @@ model.fit(X_train, y_train)
 
  ---
 
- ## Model Evaluation
+## Model Evaluation
 
 The model was evaluated using standard regression metrics:
 
-MAE (Mean Absolute Error) – Measures average absolute errors
-MSE (Mean Squared Error) – Penalizes larger errors
-RMSE (Root Mean Squared Error) – Interpretable error metric
-R² Score – Measures how well the model explains variance
+- MAE (Mean Absolute Error) – Measures average absolute errors
+- MSE (Mean Squared Error) – Penalizes larger errors
+- RMSE (Root Mean Squared Error) – Interpretable error metric
+- R² Score – Measures how well the model explains variance
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 import numpy as np
-Results:
+### Results:
 MAE: (Insert value)
 MSE: (Insert value)
 RMSE: (Insert value)
@@ -122,7 +122,7 @@ This project provided practical experience in building a machine learning model 
 - How regression models make predictions
 - How to evaluate model performance using multiple metrics
 - The value of visualization in interpreting results
-###Future Improvements:
+### Future Improvements:
 - Use multiple features (Multiple Linear Regression)
 - Try advanced models (e.g., Decision Trees, Random Forest)
 - Perform feature engineering for better accuracy
