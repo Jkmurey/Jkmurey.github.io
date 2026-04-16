@@ -31,6 +31,6 @@ A machine learning web application that predicts house prices based on user inpu
 
 ## Links:
 🔗 Live App:
-- https://california-housing-price-app-5kmqc3uucuaea8tw3wem2c.streamlit.app/
-- 💻 GitHub:
+https://california-housing-price-app-5kmqc3uucuaea8tw3wem2c.streamlit.app/
+💻 GitHub:
   
