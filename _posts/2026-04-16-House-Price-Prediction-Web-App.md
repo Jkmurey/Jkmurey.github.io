@@ -5,12 +5,7 @@ categories: [App]
 ---
 
 ## 📌 Overview
-This project involve creating a machine learning web application that predicts house prices based on user inputs. Built using Python and deployed with Streamlit..
-
----
-
-## Description:
-A machine learning web application that predicts house prices based on user inputs. Built using Python and deployed with Streamlit.
+This project involve creating a machine learning web application that predicts house prices based on user inputs. Built using Python and deployed with Streamlit.
 
 ---
 
@@ -30,7 +25,7 @@ A machine learning web application that predicts house prices based on user inpu
 ---
 
 ## Links:
-🔗 Live App:
+### 🔗 Live App:
 https://california-housing-price-app-5kmqc3uucuaea8tw3wem2c.streamlit.app/
 💻 GitHub:
   
