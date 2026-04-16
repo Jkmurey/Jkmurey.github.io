@@ -22,13 +22,15 @@ A machine learning web application that predicts house prices based on user inpu
 ---
 
 ## Tools Used:
-Python, Scikit-learn, Streamlit, Pandas
+- Python
+- Scikit-learn
+- Streamlit
+- Pandas
 
 ---
 
 ## Links:
-
 🔗 Live App:
-https://california-housing-price-app-5kmqc3uucuaea8tw3wem2c.streamlit.app/
-💻 GitHub:
-https://github.com
+- https://california-housing-price-app-5kmqc3uucuaea8tw3wem2c.streamlit.app/
+- 💻 GitHub:
+  
