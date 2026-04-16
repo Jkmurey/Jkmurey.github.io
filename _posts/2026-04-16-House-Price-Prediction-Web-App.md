@@ -1,5 +1,5 @@
 ---
-title: "## 🏠 House Price Prediction Web App"
+title: "🏠 House Price Prediction Web App"
 date: 2026-04-16
 categories: [App]
 ---
