@@ -25,8 +25,11 @@ This project involve creating a machine learning web application that predicts h
 ---
 
 ## 🔗 App Link:
-<a href="https://california-housing-price-app-5kmqc3uucuaea8tw3wem2c.streamlit.app/" target="_blank">
+<a href="https://california-housing-price-app-5kmqc3uucuaea8tw3wem2c.streamlit.app/" 
+   target="_blank" 
+   rel="noopener noreferrer">
+   🚀 View Live App
 </a>
-#https://california-housing-price-app-5kmqc3uucuaea8tw3wem2c.streamlit.app/
+
 
   
