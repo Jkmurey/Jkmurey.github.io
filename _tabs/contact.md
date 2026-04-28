@@ -10,4 +10,4 @@ order: 6
 
 <i class="fab fa-github"></i>[GitHub](https://jkmurey.github.io/) 
 
-<i class="fab fa-linkedin"></i>[LinkedIn](https://www.linkedin.com/in/joseah-murey-5411b78b)
+<i class="fab fa-linkedin"></i>[LinkedIn](https://www.linkedin.com/in/jkmurey)
