@@ -2,6 +2,7 @@
 title: "XYZ Inc. Salary Prediction"
 date: 2026-10-06 09:00:00 +0300
 categories: [App, Data Analytics, Machine Learning]
+pin: true
 ---
 
 ## Project Overview
