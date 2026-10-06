@@ -16,6 +16,7 @@ The project simulates real-world hotel operations and supports data-driven decis
 
 Hotel Revenue Dashboard — July 2026 view
 The dashboard provides a consolidated view of key hotel performance indicators, including Revenue, RevPAR, DSRN, Occupancy, ADR, and Realisation. Users can interact with the report using filters for City, Room Category, Room Class, month, and week.
+
 ---
 
 ## 🎯 Objectives
