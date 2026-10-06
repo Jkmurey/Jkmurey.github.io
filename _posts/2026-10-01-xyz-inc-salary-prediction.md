@@ -2,7 +2,6 @@
 title: "XYZ Inc. Salary Prediction"
 date: 2026-10-06 09:00:00 +0300
 categories: [Data Analytics, Machine Learning]
-tags: [Python, Pandas, Scikit-learn, Streamlit, Data Analytics, Machine Learning]
 ---
 
 ## Project Overview
