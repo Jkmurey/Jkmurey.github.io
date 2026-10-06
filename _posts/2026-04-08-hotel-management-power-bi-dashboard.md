@@ -11,12 +11,6 @@ The project simulates real-world hotel operations and supports data-driven decis
 
 ---
 
-## Dashboard Preview
-![Hotel Revenue Dashboard]({{ "/assets/img/hotel-revenue-dashboard.png" | relative_url }})
-*Interactive Power BI dashboard showing hotel revenue, occupancy, RevPAR, ADR, DSRN, and Realisation performance.*
-
----
-
 ## Business Problem
 
 Hotel management needs a clear and centralized view of business performance across properties, cities, room categories, and booking platforms. With key performance indicators such as revenue, occupancy, Average Daily Rate (ADR), Revenue per Available Room (RevPAR), Daily Sellable Room Nights (DSRN), and Realisation %, it can be difficult to identify performance differences and trends without an interactive analytical solution.
@@ -88,8 +82,17 @@ These measures were used throughout the dashboard to compare hotel performance a
 
 By using DAX measures rather than relying only on raw data fields, the dashboard could present business-focused KPIs that help management evaluate revenue, occupancy, pricing, and booking performance.
 
-
   ---
+
+## Dashboard
+
+The interactive Power BI dashboard provides a consolidated view of hotel performance across revenue, occupancy, pricing, booking platforms, room categories, and weekly trends.
+
+![Hotel Revenue Dashboard]({{ "/assets/img/hotel-revenue-dashboard.png" | relative_url }})
+
+The dashboard allows users to explore performance using filters such as city, room class, room category, and time period. It also provides key performance indicators including Revenue, Occupancy %, ADR, RevPAR, DSRN, and Realisation %.
+
+---
 
 ## Key Business Insights
 
@@ -171,8 +174,15 @@ Overall, the dashboard provides a more structured and accessible way to analyze 
 
 ---
 
- ## 📷 Dashboard Preview
-#(Add screenshots in /images folder)
+## Project Resources
+
+---
+
+## Conclusion
+
+This project strengthened my ability to transform business data into an interactive Business Intelligence solution using Power BI. From data preparation and modeling to DAX development and dashboard design, the project provided practical experience in connecting technical data skills with business requirements.
+
+The resulting dashboard demonstrates how structured data, business-focused KPIs, and interactive visualizations can be combined to support hotel performance analysis and data-driven decision-making.
 
 ---
 
