@@ -16,12 +16,23 @@ The project simulates real-world hotel operations and supports data-driven decis
 *Interactive Power BI dashboard showing hotel revenue, occupancy, RevPAR, ADR, DSRN, and Realisation performance.*
 
 ---
+## Business Problem
 
-## 🎯 Objectives
-- Understand hotel booking patterns and occupancy trends
-- Analyze revenue performance across time and room types
-- Identify key business insights for decision-making
-- Build an interactive dashboard using Power BI
+Hotel management needs a clear and centralized view of business performance across properties, cities, room categories, and booking platforms. With key performance indicators such as revenue, occupancy, Average Daily Rate (ADR), Revenue per Available Room (RevPAR), Daily Sellable Room Nights (DSRN), and Realisation %, it can be difficult to identify performance differences and trends without an interactive analytical solution.
+
+The challenge is to transform hotel booking and operational data into meaningful insights that enable management to monitor performance, compare properties, analyze booking channels, and identify changes in key metrics over time.
+
+This project addresses this challenge by developing an interactive Power BI dashboard that brings together hotel performance data and presents key business metrics in a format that supports data-driven decision-making.
+
+
+## Project Objectives
+The main objectives of this project were to:
+- Transform and prepare hotel data using Power Query to create clean, structured datasets for analysis.
+- Develop a structured data model that connects hotel, room, date, and booking information for efficient analysis.
+- Create DAX measures and KPIs to evaluate key metrics including Revenue, Occupancy %, ADR, RevPAR, DSRN, and Realisation %.
+- Analyze hotel performance across properties, cities, room categories, and booking platforms.
+- Identify performance trends by analyzing key metrics across different weeks and time periods.
+- Build an interactive Power BI dashboard that allows users to filter and explore hotel performance and support data-driven decision-making.
 
 ---
 
