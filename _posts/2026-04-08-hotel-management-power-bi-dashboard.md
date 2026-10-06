@@ -88,9 +88,8 @@ By using DAX measures rather than relying only on raw data fields, the dashboard
 
 ## Dashboard
 
-The interactive Power BI dashboard provides a consolidated view of hotel performance across revenue, occupancy, pricing, booking platforms, room categories, and weekly trends.
-
 ![Hotel Revenue Dashboard]({{ "/assets/img/hotel-revenue-dashboard.png" | relative_url }})
+The interactive Power BI dashboard provides a consolidated view of hotel performance across revenue, occupancy, pricing, booking platforms, room categories, and weekly trends.
 
 The dashboard allows users to explore performance using filters such as city, room class, room category, and time period. It also provides key performance indicators including Revenue, Occupancy %, ADR, RevPAR, DSRN, and Realisation %.
 
