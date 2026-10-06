@@ -16,6 +16,7 @@ The project simulates real-world hotel operations and supports data-driven decis
 *Interactive Power BI dashboard showing hotel revenue, occupancy, RevPAR, ADR, DSRN, and Realisation performance.*
 
 ---
+
 ## Business Problem
 
 Hotel management needs a clear and centralized view of business performance across properties, cities, room categories, and booking platforms. With key performance indicators such as revenue, occupancy, Average Daily Rate (ADR), Revenue per Available Room (RevPAR), Daily Sellable Room Nights (DSRN), and Realisation %, it can be difficult to identify performance differences and trends without an interactive analytical solution.
@@ -24,6 +25,7 @@ The challenge is to transform hotel booking and operational data into meaningful
 
 This project addresses this challenge by developing an interactive Power BI dashboard that brings together hotel performance data and presents key business metrics in a format that supports data-driven decision-making.
 
+---
 
 ## Project Objectives
 The main objectives of this project were to:
@@ -36,6 +38,37 @@ The main objectives of this project were to:
 
 ---
 
+## Data Preparation
+
+The hotel data was prepared in Power Query before being used for analysis and dashboard development. The preparation process focused on organizing the data into structured tables that could support analysis across hotels, rooms, dates, and bookings.
+
+The project used tables including **dDate, dHotels, dRooms, fBookings, and fAggregate Bookings**. These tables provided the required data for analyzing hotel performance and calculating key business metrics.
+
+The prepared data was then used to support analysis across different **properties, cities, room categories, booking platforms, and time periods**. This created a suitable foundation for the data model, DAX calculations, and interactive Power BI dashboard.
+
+**Key preparation activities included:**
+
+* Loading the required hotel datasets into Power BI.
+* Preparing the data using **Power Query**.
+* Organizing hotel, room, date, and booking information into separate tables.
+* Preparing the data for relationships within the data model.
+* Ensuring the datasets could support calculations for **Revenue, Occupancy %, ADR, RevPAR, DSRN, and Realisation %**.
+* Preparing the data for analysis by property, room category, booking platform, and week.
+
+  ---
+
+## Data Modeling
+
+A structured data model was created in Power BI to connect the hotel, room, date, and booking data and support efficient analysis. The model uses separate dimension and fact tables to organize the data and establish relationships between the different areas of the hotel business.
+
+The main tables in the model were **dDate, dHotels, dRooms, fBookings, and fAggregate Bookings**. The date, hotel, and room tables provide descriptive information, while the booking tables contain the transactional and aggregated booking data used for analysis.
+
+A dedicated **KeyMeasures** table was also used to organize the DAX measures created for the dashboard. These measures support the calculation and presentation of key performance indicators such as **Revenue, Occupancy %, ADR, RevPAR, DSRN, and Realisation %**.
+
+The resulting model provided a structured foundation for analyzing hotel performance across **properties, cities, room categories, booking platforms, and time periods**. This enabled the dashboard to provide interactive filtering and comparisons across different areas of the business.
+
+---
+  
 ## 🛠️ Tools & Technologies
 - Microsoft Power BI
 - Power Query (Data Cleaning & Transformation)
