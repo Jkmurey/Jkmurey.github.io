@@ -2,6 +2,7 @@
 title: "Hotel Management Power BI Dashboard"
 date: 2026-04-08
 category: [Power BI, Visualization]
+pin: true
 ---
 
 ## 📌 Overview
