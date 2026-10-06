@@ -12,7 +12,7 @@ The project simulates real-world hotel operations and supports data-driven decis
 ---
 
 ## Dashboard Preview
-![Hotel Revenue Dashboard](/assets/img/hotel-revenue-dashboard.png)
+![Hotel Revenue Dashboard]([https://github.com/Jkmurey/Jkmurey.github.io/blob/main/assets/img/hotel-revenue-dashboard.png])
 *Interactive Power BI dashboard showing hotel revenue, occupancy, RevPAR, ADR, DSRN, and Realisation performance.*
 
 ---
