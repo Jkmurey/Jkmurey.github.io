@@ -6,6 +6,7 @@ pin: true
 ---
 
 ## Project Overview
+
 This is an end-to-end Business Intelligence project focused on analyzing hotel revenue, occupancy, pricing, and booking performance. The project involved transforming raw hotel data, developing a structured data model, creating DAX measures, and designing an interactive Power BI dashboard for business decision-making.
 The project simulates real-world hotel operations and supports data-driven decision-making.
 
@@ -22,6 +23,7 @@ This project addresses this challenge by developing an interactive Power BI dash
 ---
 
 ## Project Objectives
+
 The main objectives of this project were to:
 - Transform and prepare hotel data using Power Query to create clean, structured datasets for analysis.
 - Develop a structured data model that connects hotel, room, date, and booking information for efficient analysis.
@@ -185,4 +187,3 @@ This project strengthened my ability to transform business data into an interact
 The resulting dashboard demonstrates how structured data, business-focused KPIs, and interactive visualizations can be combined to support hotel performance analysis and data-driven decision-making.
 
 ---
-
