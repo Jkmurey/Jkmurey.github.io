@@ -5,10 +5,17 @@ category: [Power BI, Visualization]
 pin: true
 ---
 
-## 📌 Project Overview
-This project is a Business Intelligence dashboard built using Microsoft Power BI to analyze hotel performance, bookings, and revenue trends.
-It simulates real-world hotel operations and supports data-driven decision-making.
+## Project Overview
+This is an end-to-end Business Intelligence project focused on analyzing hotel revenue, occupancy, pricing, and booking performance. The project involved transforming raw hotel data, developing a structured data model, creating DAX measures, and designing an interactive Power BI dashboard for business decision-making.
+The project simulates real-world hotel operations and supports data-driven decision-making.
 
+---
+
+## Dashboard Preview
+
+
+Hotel Revenue Dashboard — July 2026 view
+The dashboard provides a consolidated view of key hotel performance indicators, including Revenue, RevPAR, DSRN, Occupancy, ADR, and Realisation. Users can interact with the report using filters for City, Room Category, Room Class, month, and week.
 ---
 
 ## 🎯 Objectives
