@@ -63,6 +63,10 @@ A dedicated **KeyMeasures** table was also used to organize the DAX measures cre
 
 The resulting model provided a structured foundation for analyzing hotel performance across **properties, cities, room categories, booking platforms, and time periods**. This enabled the dashboard to provide interactive filtering and comparisons across different areas of the business.
 
+### Data Model
+
+The Power BI data model brings together hotel, room, date, and booking information to support the analysis and reporting requirements of the project.
+
 ---
 
 ## 🔢 DAX & Key Metrics
