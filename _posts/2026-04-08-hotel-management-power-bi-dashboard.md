@@ -51,6 +51,12 @@ The prepared data was then used to support analysis across different **propertie
 * Ensuring the datasets could support calculations for **Revenue, Occupancy %, ADR, RevPAR, DSRN, and Realisation %**.
 * Preparing the data for analysis by property, room category, booking platform, and week.
 
+### Power Query
+
+Power Query was used to prepare the hotel data before analysis and reporting. The data preparation process provided a structured foundation for the data model, DAX calculations, and dashboard development.
+
+![Hotel Revenue Dashboard]({{ "/assets/img/hotel-revenue-power-query.png" | relative_url }})
+
   ---
 
 ## Data Modeling
@@ -66,6 +72,7 @@ The resulting model provided a structured foundation for analyzing hotel perform
 ### Data Model
 
 The Power BI data model brings together hotel, room, date, and booking information to support the analysis and reporting requirements of the project.
+
 ![Hotel Revenue Dashboard]({{ "/assets/img/hotel-revenue-model.png" | relative_url }})
 
 ---
