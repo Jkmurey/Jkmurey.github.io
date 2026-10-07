@@ -66,6 +66,7 @@ The resulting model provided a structured foundation for analyzing hotel perform
 ### Data Model
 
 The Power BI data model brings together hotel, room, date, and booking information to support the analysis and reporting requirements of the project.
+![Hotel Revenue Dashboard]({{ "/assets/img/hotel-revenue-model.png" | relative_url }})
 
 ---
 
