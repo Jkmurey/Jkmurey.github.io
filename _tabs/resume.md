@@ -97,20 +97,20 @@ Power BI Developer with a strong foundation in Business Information Technology a
 ## Education 
 ### Jomo Kenyatta University of Agriculture and Technology  
 September 2007 - July 2011
-**Bachelor of Business Information Technology**
-Second Class Upper Division
+- Bachelor of Business Information Technology
+- Second Class Upper Division
 ---
 
 ## Professional Courses
-### CyberShujaa 
-January 2026 - April 2026)
-- Data & AI
+### CyberShujaa Program
+January 2026 - April 2026
+- Certificate in Data & AI
 
 ---
 
 ### Moringa School 
-September 2024 - January 2025)
-- Excel, SQL & Power BI 
+September 2024 - January 2025
+- Certificate in Data Analytics with Excel and Power BI 
 
 ---
 
