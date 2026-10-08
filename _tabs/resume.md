@@ -97,7 +97,7 @@ Power BI Developer with a strong foundation in Business Information Technology a
 ## Education 
 ### Jomo Kenyatta University of Agriculture and Technology  
 September 2007 - July 2011
-**BSc Business Information Technology**
+**Bachelor of Business Information Technology**
 Second Class Upper Division
 ---
 
