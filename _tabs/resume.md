@@ -73,7 +73,7 @@ Power BI Developer with a strong foundation in Business Information Technology a
 - Monitored sales, expenses, inventory, and operational performance to support business planning and decision-making.
 
 ### IT Consultant – Kenya Apps Network Ltd, Nairobi, Kenya .
-**Jun 2021 – Dec 2024**
+**Jun 2021 – May 2022**
 - Analyzed business processes and technology requirements to identify opportunities for automation, process improvement, and digital transformation.
 - Advised SMEs on IT infrastructure, software solutions, and system upgrades, while troubleshooting technical challenges to support reliable IT service delivery.
   
