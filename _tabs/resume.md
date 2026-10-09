@@ -5,7 +5,7 @@ order: 2
 ---
 
 ## 📄 Download My CV
-[⬇️ Download My CV (PDF)](/assets/files/Joseah_Murey_CV.pdf)
+[⬇️ Download My CV (PDF)](/assets/files/my-cv.pdf)
 
 ---
 
@@ -115,4 +115,4 @@ September 2024 - January 2025
 ---
 
 ## 📑 View CV
-<iframe src="/assets/files/Joseah_Murey_CV.pdf" width="100%" height="800px"></iframe>
+<iframe src="/assets/files/my-cv.pdf" width="100%" height="800px"></iframe>
