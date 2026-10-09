@@ -4,9 +4,8 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-<h1>Data Analyst | Aspiring Data Engineer | Exploring Practical AI</h1>
-<p>Building data solutions for better business decisions and practical AI applications.
-Power BI SQL Python Excel Data Engineering AI</p>
+<h2>Data Analyst | Aspiring Data Engineer | Exploring Practical AI</h2>
+<p>Building data solutions for better business decisions and practical AI applications.</p>
 
 <section>
   <p>
